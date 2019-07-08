@@ -93,7 +93,7 @@ a:hover {
     box-shadow: 0 0 7px rgba(0, 0, 0, 0.1);
 }
 .navbar-brand {
-    padding: 0px 15px;
+    padding: 100px 150px;
     max-width: 100px;
 }
 .navbar-default .navbar-nav>li>a {
