@@ -363,6 +363,7 @@ height:30%;
     -webkit-box-shadow: none;
     box-shadow: none;
     padding: 10px 15px;
+    background: ##24C0D9;
 }
 .form-control {
     height: 50px;
