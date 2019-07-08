@@ -94,8 +94,8 @@ a:hover {
 }
 .navbar-brand {
     padding: 5px 15px;
-    width: 50px;
-    height: 20px;
+    width: 20%;
+    height: 5%;
 }
 .navbar-default .navbar-nav>li>a {
     color: #949494;
