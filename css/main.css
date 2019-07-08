@@ -57,7 +57,7 @@ a:hover {
     margin-bottom: 50px;
     padding-bottom: 20px;
     display: inline-block;
-    border-bottom: 1px solid #0864A3;
+    border-bottom: 1px solid #187F90;
 }
 .button {
     border: none;
@@ -205,7 +205,7 @@ a:hover {
  ================================================ */
 
 #newsletter {
-    background: #0864A3;
+    background: #187F90;
     background-size: cover;
     background-position: 0% 80%;
     padding-top: 40px;
@@ -288,7 +288,7 @@ a:hover {
     color: #fff;
 }
 .testimonial {
-    background: #0864A3;
+    background: #187F90;
     color: #fff;
     margin-top: 20px;
 }
