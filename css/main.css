@@ -108,7 +108,7 @@ a:hover {
 ================================================ */
 
 #home-area {
-    background: url(img/header-bg.jpg) no-repeat;
+    
     background-position: 50% 50%;
     background-size: cover;
 }
@@ -322,7 +322,7 @@ a:hover {
     margin-top: 30px;
 }
 .pilot {
-    background: #0864A3;
+    background: #187F90;
     color: #fff;
     margin-top: 20px;
 }
@@ -333,7 +333,7 @@ a:hover {
 ================================================ */
 
 #get-trial {
-    background: #0864A3;
+    background: #187F90;
     /*padding: 120px 0; */
 }
 #get-trial h4 {
@@ -344,7 +344,7 @@ a:hover {
     margin: 20px;
 }
 .get-trial {
-    background: #0864A3;
+    background: #187F90;
     border: 1px solid #fff;
     color: #fff;
 }
@@ -367,7 +367,7 @@ a:hover {
     padding-left: 20px;
 }
 .send-button {
-    background: #0864A3;
+    background: #187F90;
     color: #fff;
 }
 .contact-form {
