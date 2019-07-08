@@ -108,7 +108,7 @@ a:hover {
 ================================================ */
 
 #home-area {
-    background: url(../img/header-bg.jpg) no-repeat;
+    background: url(img/header-bg.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: cover;
 }
