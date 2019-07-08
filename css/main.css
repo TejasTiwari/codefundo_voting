@@ -1,4 +1,4 @@
-/* BLUE: #24C0D9;
+/* BLUE: #c4b066;
 BLACK: #5E5865;
 Gray: #666;
 Dark Gray: #727272;
@@ -40,7 +40,7 @@ p {
 a {
     font-size: 15px;
     font-family: 'Open Sans', sans-serif;
-    color: #24C0D9;
+    color: #c4b066;
     font-weight: 400;
     letter-spacing: .3px;
 }
@@ -57,7 +57,7 @@ a:hover {
     margin-bottom: 50px;
     padding-bottom: 20px;
     display: inline-block;
-    border-bottom: 1px solid #187F90;
+    border-bottom: 1px solid #0864A3;
 }
 .button {
     border: none;
@@ -102,7 +102,7 @@ a:hover {
     margin-right: 8px;
 }
 .navbar-default .navbar-nav>li>a:hover {
-    color: #24C0D9;
+    color: #c4b066;
 }
 /* HEADER
 ================================================ */
@@ -160,7 +160,7 @@ a:hover {
     margin: 30px 25px;
 }
 .service-title {
-    color: #24C0D9;
+    color: #c4b066;
 }
 .service-content {
     margin-left: 65px;
@@ -205,7 +205,7 @@ a:hover {
  ================================================ */
 
 #newsletter {
-    background: #187F90;
+    background: #0864A3;
     background-size: cover;
     background-position: 0% 80%;
     padding-top: 40px;
@@ -274,7 +274,7 @@ a:hover {
 }
 .social-networks a {
     display: inline-block;
-    border: 1px solid #24C0D9;
+    border: 1px solid #c4b066;
     border-radius: 50%;
     background: #FFFFFF;
     margin: 3px;
@@ -283,12 +283,12 @@ a:hover {
     height: 50px;
 }
 .social-networks a:hover {
-    background: #24C0D9;
-    border: 1px solid #24C0D9;
+    background: #c4b066;
+    border: 1px solid #c4b066;
     color: #fff;
 }
 .testimonial {
-    background: #187F90;
+    background: #0864A3;
     color: #fff;
     margin-top: 20px;
 }
@@ -322,7 +322,7 @@ a:hover {
     margin-top: 30px;
 }
 .pilot {
-    background: #187F90;
+    background: #0864A3;
     color: #fff;
     margin-top: 20px;
 }
@@ -333,7 +333,7 @@ a:hover {
 ================================================ */
 
 #get-trial {
-    background: #187F90;
+    background: #0864A3;
     /*padding: 120px 0; */
 }
 #get-trial h4 {
@@ -344,7 +344,7 @@ a:hover {
     margin: 20px;
 }
 .get-trial {
-    background: #187F90;
+    background: #0864A3;
     border: 1px solid #fff;
     color: #fff;
 }
@@ -367,7 +367,7 @@ a:hover {
     padding-left: 20px;
 }
 .send-button {
-    background: #187F90;
+    background: #0864A3;
     color: #fff;
 }
 .contact-form {
@@ -378,7 +378,7 @@ a:hover {
     margin-top: 30px;
 }
 .contact-info span {
-    color: #24C0D9;
+    color: #c4b066;
     margin-right: 10px;
 }
 .contact-info, .business-hours {
