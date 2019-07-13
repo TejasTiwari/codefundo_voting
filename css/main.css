@@ -78,6 +78,9 @@ a:hover {
     background: #454545;
     border-color: #454545;
 }
+#vote2{
+    padding-left: 15px;
+}
 .overlay {
     /*background: rgba(43, 191, 217, 0.90); */
     background: rgba(8, 100, 163, 0.90);
