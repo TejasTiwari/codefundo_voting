@@ -24,7 +24,7 @@ abbr[title]{border-bottom:1px dotted}b,strong{font-weight:bold}dfn{font-style:it
 {display:block;max-width:100%;height:auto}
 .img-responsive{
   display:block;max-width:100%;height:auto
-  padding-top: 20px;
+    margin-top: 20px;
 }
 
 .img-rounded{border-radius:6px}
